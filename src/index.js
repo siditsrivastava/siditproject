@@ -1,13 +1,42 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
+import Card from './Card';
+import Element from './Element';
+//import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+
+function ncard( val ){
+ 
+  return(
+     
+   <Card 
+     key   =   { val.id}
+     img   =   {val.img}
+     para  =   {val.para}
+     sname =   {val.sname}
+     link  =   {val.link}
+   />
+   
+  );
+}
+
+
+
 ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
+ 
+  
+  <>  
+
+  <h1 className = "  heading ">Top 5 Web Series of the Netflix and Amazon.</h1>
+     
+      { Element.map(ncard)}
+
+       </>,
+
+
+
   document.getElementById('root')
 );
 
