@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/siditproject/static/css/main.b0d85896.chunk.css",
+    "main.js": "/siditproject/static/js/main.1d060a3b.chunk.js",
+    "main.js.map": "/siditproject/static/js/main.1d060a3b.chunk.js.map",
+    "runtime-main.js": "/siditproject/static/js/runtime-main.f16ac111.js",
+    "runtime-main.js.map": "/siditproject/static/js/runtime-main.f16ac111.js.map",
+    "static/js/2.68aa738b.chunk.js": "/siditproject/static/js/2.68aa738b.chunk.js",
+    "static/js/2.68aa738b.chunk.js.map": "/siditproject/static/js/2.68aa738b.chunk.js.map",
+    "static/js/3.7fb136dd.chunk.js": "/siditproject/static/js/3.7fb136dd.chunk.js",
+    "static/js/3.7fb136dd.chunk.js.map": "/siditproject/static/js/3.7fb136dd.chunk.js.map",
+    "index.html": "/siditproject/index.html",
+    "static/css/main.b0d85896.chunk.css.map": "/siditproject/static/css/main.b0d85896.chunk.css.map",
+    "static/js/2.68aa738b.chunk.js.LICENSE.txt": "/siditproject/static/js/2.68aa738b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f16ac111.js",
+    "static/js/2.68aa738b.chunk.js",
+    "static/css/main.b0d85896.chunk.css",
+    "static/js/main.1d060a3b.chunk.js"
+  ]
+}
